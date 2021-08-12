@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TonBway
+- 👀 I’m interested in Web & Mobile development.
+- 🌱 I’m currently learning Mobile Implementation and understanding the core function of a smartphone.
+- 💞️ I’m looking to collaborate and help where i can.
